@@ -36,4 +36,4 @@
 
 ###  :zap: Github Stats
 
-<img align="left" alt="TanguyCavagna's Github Stats" src="https://github-readme-stats.tanguycavagna.vercel.app//api?username=TanguyCavagna&show_icons=true&hide_border=true" />
+<img align="left" alt="TanguyCavagna's Github Stats" src="https://github-readme-stats.tanguycavagna.vercel.app//api?username=TanguyCavagna&show_icons=true&hide_border=true&theme=dracula" />
