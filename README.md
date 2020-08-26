@@ -29,7 +29,7 @@
 
 ---
 
-### :zap: Recent Github Activity
+### :zap: WakaTime activities
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
