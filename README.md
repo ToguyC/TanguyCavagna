@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Japan addict!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a Kanji learning app!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking to learn japanese in the country itself in 2021 !
 
