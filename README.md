@@ -7,7 +7,7 @@
 - 👯 I'm looking to learn japanese in the country itself in 2021 !
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.tanguycavagna.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bhsf711sf7mx5a4jjzzuu1ciz)
+[![Spotify](https://spotify-now-playing.tanguycavagna.vercel.app/api/spotify)](https://open.spotify.com/user/bhsf711sf7mx5a4jjzzuu1ciz)
 
 <br />
 
