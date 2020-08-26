@@ -29,11 +29,6 @@
 
 ---
 
-### :zap: Recent GitHub Activities
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ###  :zap: Github Stats
 
 <img align="left" alt="TanguyCavagna's Github Stats" src="https://github-readme-stats.tanguycavagna.vercel.app//api?username=TanguyCavagna&show_icons=true&hide_border=true&theme=dracula" />
