@@ -1,10 +1,8 @@
 ### Hi there, I'm Tanguy 👋
 
-## I'm a Student, Developer, and Japan addict!
+## I'm a Student, Developer, and Japan culture lover!
 
-- 🔭 I’m currently working on a Kanji learning app!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I'm looking to learn japanese in the country itself in 2021 !
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-now-playing.tanguycavagna.vercel.app/api/spotify)](https://open.spotify.com/user/bhsf711sf7mx5a4jjzzuu1ciz)
